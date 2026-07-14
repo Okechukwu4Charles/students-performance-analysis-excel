@@ -98,7 +98,7 @@ The objective of this project is to demonstrate how Microsoft Excel can be used 
 
 ## Project Preview
 
-### Grade Book
+### Performance Record Sheet 
 
 ![Performance Analysis Worksheet](SPA_RecordSheet.png)
 
